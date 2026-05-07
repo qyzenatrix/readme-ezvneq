@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qyzenatrix.github.io/readme-ezvneq/sitemap.xml
